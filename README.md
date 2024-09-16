@@ -13,7 +13,7 @@
 - <b>Advanced System Monitor (C, Systems Programming, VirtualBox)</b>
   - [System Resource Monitoring Application](https://github.com/Malfratmohamed/system-monitor-project): Developed in a virtualized environment using VirtualBox for cross-platform testing and resource monitoring.
 - <b>Calculator (JavaScript, HTML, CSS)</b>
-  - [Simple Calculator](https://github.com/Malfratmohamed/calculator-project): A basic calculator application with functionalities for addition, subtraction, multiplication, and division.<h2>🛠️ Tools & Technologies:</h2>
+  - [Simple Calculator]([https://github.com/Malfratmohamed/calculator-project](https://github.com/Malfratmohamed/Calculator)): A basic calculator application with functionalities for addition, subtraction, multiplication, and division.<h2>🛠️ Tools & Technologies:</h2>
 
 - **Languages**: JavaScript, Python, Java, C++
 - **Front-end**: React, HTML5, CSS3, Bootstrap
